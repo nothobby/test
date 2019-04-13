@@ -1,3 +1,3 @@
 #!/usr/bin/python
-
-print("hello")
+a="wo s ren"
+print("a")
